@@ -1,8 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,50:7F77DD,100:378ADD&height=220&section=header&text=Pallavi%20Yadav&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20→%20Data%20Scientist%20→%20ML%2FAI%20Engineer&descAlignY=58&descSize=16&descColor=ccddff&animation=fadeIn)
+
 <div align="center">
 
-# Hey, I'm Pallavi Yadav 👋
-
-### From building interfaces to building intelligence — developer roots, data science training, moving toward ML/AI engineering.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Building+intelligent+systems+that+survive+production;CNN+%7C+GNN+%7C+RAG+%7C+LLMOps;From+pixels+to+pipelines+🚀)](https://git.io/typing-svg)
 
 *M.Tech CSE · Vellore Institute of Technology · 2025–2027*
 
@@ -108,3 +108,5 @@ Open to: `Data Scientist` `ML Engineer` `Data Analyst` roles + ML school applica
 <div align="center">
 <i>"Started with pixels. Now I care about what's underneath them."</i>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,50:7F77DD,100:1D9E75&height=120&section=footer&animation=fadeIn)
