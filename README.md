@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/O1gmXZ391qkAAAAC/bnbn.gif" width="100%" style="max-width:600px;" alt="pixel art girl at window"/>
+<img src="https://tenor.com/hQURBRFxFFj.gif" width="100%" style="max-width:600px;" alt="pixel art girl at window"/>
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,50:7F77DD,100:378ADD&height=220&section=header&text=Pallavi%20Yadav&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20→%20Data%20Scientist%20→%20ML%2FAI%20Engineer&descAlignY=58&descSize=16&descColor=ccddff&animation=fadeIn)
