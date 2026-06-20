@@ -1,12 +1,10 @@
-<div align="center">
-<img src="https://media.tenor.com/WZCuPSuhhR8AAAAC/pixel-jeff-divoom-pixel-art.gif" width="100%" style="max-width:600px;" alt="pixel art woman at desk"/>
-</div>
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,50:7F77DD,100:378ADD&height=220&section=header&text=Pallavi%20Yadav&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20→%20Data%20Scientist%20→%20ML%2FAI%20Engineer&descAlignY=58&descSize=16&descColor=ccddff&animation=fadeIn)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Building+intelligent+systems+that+survive+production;CNN+%7C+GNN+%7C+RAG+%7C+LLMOps;From+pixels+to+pipelines+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Building+intelligent+systems+that+survive+production;From+pixels+to+pipelines+🚀)](https://git.io/typing-svg)
 
 *M.Tech CSE · Vellore Institute of Technology · 2025–2027*
 
